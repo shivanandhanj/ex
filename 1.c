@@ -5,5 +5,6 @@ int main(){
     b=10;
     c=a+b;
     printf("%d",a);
+    int d=0;
     return 0;
 }
