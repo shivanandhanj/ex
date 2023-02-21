@@ -7,5 +7,6 @@ int main(){
     printf("%d",a);
     int d=0;
     d=5;
+    printf("newly added one");
     return 0;
 }
