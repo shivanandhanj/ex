@@ -1,8 +1,11 @@
 #include<stdio.h>
 int main(){
     int a,b,c;
-    a=10;
-    b=208;
+
+    a=100;
+    b=20;
     c=a+b;
     printf("%d",a);
-    
+    return 0;
+}
+
